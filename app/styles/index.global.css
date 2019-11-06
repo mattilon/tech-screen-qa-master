@@ -1,0 +1,13 @@
+html,
+body {
+  background-color: #ffffff !important;
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+}
+
+.four-o-four {
+  margin-top: 25%;
+}
